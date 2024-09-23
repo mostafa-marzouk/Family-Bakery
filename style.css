@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.perant1 {
+  background-image: url(images/drew-coffman-1872.jpg);
+  width: 100%;
+  height: 100vh;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.perant1 img {
+  margin-top: 30px;
+  width: 12%;
+  margin-left: 145px;
+}
+.perant1 ul {
+  margin: 20px 120px 0 0;
+  float: right;
+}
+.clear {
+  clear: both;
+}
+.welcome {
+  text-align: center;
+  width: 45%;
+  color: #ffffff;
+  font-size: 24px;
+  margin: auto;
+  margin-top: 13%;
+}
+.welcome .test {
+  margin: 0;
+}
+.welcome p {
+  font-family: "Alegreya Sans", sans-serif;
+}
+.welcome h1 {
+  font-size: 76px;
+  margin-top: 20px;
+  font-family: Alegreya SC;
+}
+ul {
+  margin: 0;
+}
+ul .Nav_link {
+  list-style: none;
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 20px;
+  padding: 20px 0;
+}
+.Nav_link a {
+  color: aliceblue;
+  text-decoration: none;
+  width: 16px;
+}
+.welcome .cliks {
+  margin-right: 11px;
+  padding: 17px 33px;
+  background-color: #8e7754;
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.perant2 {
+  width: 100%;
+  height: 100vh;
+}
+.img_bake img {
+  width: 527px;
+}
+.text1 {
+  text-align: left;
+  width: 597px;
+}
+.text1 p {
+  font-size: large;
+  color: #686868;
+  line-height: 1.5;
+  font-family: "Alegreya Sans", sans-serif;
+}
+.text1 h2 {
+  letter-spacing: -1px;
+  font-weight: 400;
+  color: #373a3c;
+  font-size: xxx-large;
+  font-family: "Alegreya Sans", sans-serif;
+}
+
+.perant2 .img_bake {
+  position: absolute;
+  top: 789px;
+  left: 150px;
+}
+.list_c {
+  font-family: "Alegreya Sans", sans-serif;
+  margin-bottom: 35px;
+  font-size: 17;
+  font-family: ;
+}
+
+.list_who {
+  list-style: none;
+}
+.perant2 .who_we_are {
+  position: absolute;
+  top: 810px;
+  left: 740px;
+}
+
+/* الصوره */
+
+/* التيكست */
